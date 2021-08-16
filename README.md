@@ -1,4 +1,4 @@
-# Sistemas Operativos de Red - [lista de clase](https://docs.google.com/spreadsheets/d/1KhTUpCy0n6xf3_mbc0DYiUfZyAWAznuPEevTcrLHPw8/edit?usp=sharing)
+# Sistemas Operativos de Red - [lista de clase](https://docs.google.com/spreadsheets/d/12kI_O_5hZyRuATpZbUM5oNdZasiaDAGh/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
 # Semana 1, sesion 1
 
