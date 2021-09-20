@@ -17,7 +17,7 @@ $  ssh -i user user@34.125.173.24
 # Semana 2, sesion 1 - Introduccion a Docker
 1. Instalar [docker](https://docs.docker.com/engine/install/centos/)
 2. Lectura [introduccion a docker](https://github.com/adsoftsito/web/blob/main/w1/docker_intro.pdf)
-3. Realizar [DockerLab](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf)
+3. Realizar [DockerLab](https://github.com/adsoftsito/apis/blob/master/w2/dockerlab.pdf)
 4. Registrarse en [Docker Hub](https://hub.docker.com/)
 5. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
 
