@@ -1,0 +1,8 @@
+Proyecto parcial 1 - Fecha de entrega : 29/Sep/2021 en la clase
+
+1.- crear un subdominio para su servidor en https://www.noip.com/ --> 20 pts
+2.- crear pagina de inicio con su nombre y matricula ( docker en el puerto 80 )  --> 40 pts
+     - liga hacia otro docker en el puerto 8080 ( poner su CV )
+     - ligar hacia el docker nodejs puerto 8081
+3.- crear docker con su CV en el puerto 8080 --> 20 pts     
+4.- crear docker con nodejs en el puerto 8081 --> 20 pts
